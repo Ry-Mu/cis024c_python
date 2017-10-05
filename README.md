@@ -1,1 +1,2 @@
-# cis024c
+# cis024c - Python Programming
+
