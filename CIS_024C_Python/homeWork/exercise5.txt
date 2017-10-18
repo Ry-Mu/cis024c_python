@@ -3,3 +3,4 @@ Harry, 23, Male, Software Engineer
 Sam, 25, Male, Lawyer
 Lisa, 29, Female, Computer Scientist
 Mary, 22,Female, Doctor
+Tommy , 25 , Male , salesman
